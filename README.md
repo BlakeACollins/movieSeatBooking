@@ -1,6 +1,6 @@
 # movieSeatBooking
 
-Choose your movie and book a seat! Practicing my HTML5. CSS3, JavaScript and local storage. 
+Choose your movie and book a seat! Practicing my HTML5. CSS3, JavaScript, and local storage. 
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
